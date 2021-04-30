@@ -1,0 +1,23 @@
+html{
+    font-size: 50px;
+    font-family:'Dancing Script', cursive; 
+    background-color:lightcoral;
+}
+h1{
+    text-align: center;
+    margin:0px auto 100px auto;
+    text-shadow: 3px 3px 1px blue;
+
+}
+body{
+    width: 1020px;
+    background-color: lightpink;
+    border: 5px solid black;
+    margin: 100px auto 100px auto;
+    padding: 100px 100px 100px 100px;
+}
+img{
+    display: block;
+    margin: auto auto auto auto;
+    width: 920px;
+}
